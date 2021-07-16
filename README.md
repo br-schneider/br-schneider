@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=br-schneider&label=Profile%20views&color=0e75b6&style=flat" alt="br-schneider" /> </p>
 
-- 🔭 I’m currently working on [OOAD-FinalProject](https://github.com/br-schneider/OOAD-FinalProject)
-
-- 🌱 I’m currently learning **Computer Security**
-
 - 📫 How to reach me **brett.c.schneider@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
