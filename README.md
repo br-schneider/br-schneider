@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me on
   <p style="display: inline;" align="left">
     <a href="https://linkedin.com/in/brett-schneider-08247b123" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brett-schneider-08247b123" height="40" width="40" />
+      <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brett-schneider-08247b123" height="40" width="40" />
     </a>
   </p>
 </h3>
