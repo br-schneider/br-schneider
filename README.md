@@ -8,12 +8,10 @@
 - How to reach me: brett.c.schneider@gmail.com
 - Currently working on: [dogsilly.com]() 
 
-<h3 align="left">Connect with me on
-  <p style="display: inline;" align="left">
-    <a href="https://linkedin.com/in/brett-schneider-08247b123" target="blank">
+<h3 align="left">Connect with me on &nbsp; 
+    <a href="https://www.linkedin.com/in/brett-schneider-08247b123/" target="blank">
       <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brett-schneider-08247b123" height="40" width="40" />
     </a>
-  </p>
 </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=br-schneider&show_icons=true&locale=en" alt="br-schneider" /></p>
