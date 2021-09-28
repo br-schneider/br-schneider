@@ -12,7 +12,7 @@
 </h3>
 
 - How to reach me: brett.c.schneider@gmail.com
-- Currently working on: [dogsilly.com]() 
+- Currently working on: https://dogsilly.com
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=br-schneider&show_icons=true&locale=en" alt="br-schneider" /></p>
