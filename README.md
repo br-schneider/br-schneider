@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=br-schneider&label=Profile%20views&color=0e75b6&style=flat" alt="br-schneider"/> 
 </p>
 
-<h3 align="left">Connect with me on &nbsp; 
+<h3 align="left"> Connect with me on &nbsp; 
     <a href="https://www.linkedin.com/in/brettcschneider/" target="blank">
       <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brettschneider" height="40" width="40" />
     </a>
