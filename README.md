@@ -11,7 +11,7 @@
     </a>
 </h3>
 - How to reach me: brett.c.schneider@gmail.com
-
+<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=br-schneider&show_icons=true&locale=en" alt="br-schneider" /></p>
