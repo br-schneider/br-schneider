@@ -10,9 +10,7 @@
       <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brett-schneider-08247b123" height="40" width="40" />
     </a>
 </h3>
-
 - How to reach me: brett.c.schneider@gmail.com
-- Currently working on: https://dogsilly.com
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=br-schneider&show_icons=true&locale=en" alt="br-schneider" /></p>
