@@ -6,8 +6,8 @@
 </p>
 
 <h3 align="left">Connect with me on &nbsp; 
-    <a href="https://www.linkedin.com/in/brett-schneider-08247b123/" target="blank">
-      <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brett-schneider-08247b123" height="40" width="40" />
+    <a href="https://www.linkedin.com/in/brettcschneider/" target="blank">
+      <img align="center" style="display: inline;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brettschneider" height="40" width="40" />
     </a>
 </h3>
 - How to reach me: brett.c.schneider@gmail.com
