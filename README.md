@@ -13,5 +13,3 @@
 - How to reach me: brett.c.schneider@gmail.com
 <br/>
 <br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=br-schneider&" alt="br-schneider" /></p>
