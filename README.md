@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brett Schneider</h1>
+<h1 align="center">Hi, I'm Brett Schneider!</h1>
 <h3 align="center">I graduated from the University of Colorado Boulder with a Computer Science degree and am currently a founding software engineer at <a href="https://gladiatelaw.com">Gladiate Law</a>.</h3>
 
 <p align="center"> 
