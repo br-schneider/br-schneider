@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=br-schneider&label=Profile%20views&color=0e75b6&style=flat" alt="br-schneider"/> 
 </p>
-<h3 >I graduated from the University of Colorado Boulder with a Computer Science degree and am currently a founding software engineer at <a href="[https://www.concentro.io](https://www.meritfirst.us/)">MeritFirst</a>.</h3>
+<h3 >I graduated from the University of Colorado Boulder with a Computer Science degree and am currently a founding software engineer at <a href="https://www.meritfirst.us">MeritFirst</a>.</h3>
 <p >
 I build products that turn complex ideas into clear, useful software. Over the years I have shipped production systems and guided lean teams at venture-backed startups, always with an eye on real-world results.
 
